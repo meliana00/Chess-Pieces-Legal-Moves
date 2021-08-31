@@ -1,5 +1,5 @@
-#Chess Pieces Legal Moves Game
-
+Chess Pieces Legal Moves Game
+==========================================================================
 Made With: PyGame
 Created By: Melika Javadi
 Github: github.com/meliana00
@@ -13,5 +13,5 @@ or may not be an abstacle.
 Instructions:
 a.Extract all the files 
 b.Run chess.exe
-
+==========================================================================
 NOTE: Make sure you extract all the files to the same path. 
