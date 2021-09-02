@@ -1,4 +1,4 @@
-#Chess Pieces Legal Moves Game
+Chess Pieces Legal Moves Game
 
 Made With: PyGame
 Created By: Melika Javadi
