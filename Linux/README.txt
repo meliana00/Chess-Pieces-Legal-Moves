@@ -13,4 +13,5 @@ or may not be an abstacle.
 Instructions:
 a.Extract all the files 
 b.Open your terminal in the same path where you have extracted the files
-c.type "./chess" to execute the chess game 
+c.Type "chmod +x chess.exe" in the terminal to have permission to execute the program
+d.Type "./chess" to execute the chess game 
